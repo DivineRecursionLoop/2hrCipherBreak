@@ -1,4 +1,6 @@
 # 2hrCipherBreak
+First try...
+
 By the way:
 IWONTBEFOO
 ALWAYSFAITH
